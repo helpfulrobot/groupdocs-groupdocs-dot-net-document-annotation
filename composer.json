@@ -1,0 +1,16 @@
+{
+	  "name": "groupdocs/groupdocs-dot-net-document-annotation",
+	  "description": "This plugin adds comprehensive document & image annotation functionality to SilverStripe CMS",
+	  "type": "silverstripe-module",
+	  "homepage": "https://groupdocs.com/dot-net/document-annotation-library,
+	  "keywords": ["silverstripe", "groupdocs", "document annotation", "pdf annotation", "word annotation", "image annotation", ".net"],
+	  "license": "BSD-3-Clause",
+	  "authors": [
+	    {"name": "Marketplace Team","email": "support@groupdocs.com"}
+	  ],	  
+	  "require": {
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  }
+	}	
+		
