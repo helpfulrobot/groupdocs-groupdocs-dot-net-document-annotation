@@ -1,6 +1,6 @@
 {
 	  "name": "groupdocs/groupdocs-dot-net-document-annotation",
-	  "description": "This plugin adds comprehensive document & image annotation functionality to SilverStripe CMS",
+	  "description": "Annotate over 50 document & image types on your SilverStripe website",
 	  "type": "silverstripe-module",
 	  "homepage": "https://groupdocs.com/dot-net/document-annotation-library",
 	  "keywords": ["silverstripe", "groupdocs", "document annotation", "pdf annotation", "word annotation", "image annotation", ".net"],
