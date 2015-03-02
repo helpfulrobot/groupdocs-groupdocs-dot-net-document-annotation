@@ -14,7 +14,7 @@ GroupDocs.Annotation for .NET allows multiple users to annotate the same documen
 With over 14 annotation tools that come with the library, users can: add sticky notes, comment on a selected area or text, drop arrows, draw freehand lines, highlight an area with a rectangle, underline or strikethrough selected text, add watermarks, hide sensitive data with redactions, measure distance between objects within a document, etc.
 
 <strong>Secure Document Sharing</strong>
-Documents embedded to your website are not download to user machines during view & annotation sessions. They are rendered in user web-browsers just like a standard web-page. Combined with the in-built DRM (Digital Rights Management) feature, this allows you to share documents in a “read-only” mode. You can configure GroupDocs.Annotation to prevent users from coping, downloading or printing some or all of the documents displayed on your website.
+Documents embedded to your website are not downloaded to user machines during view & annotation sessions. They are rendered in user web-browsers just like a standard web-page. Combined with the in-built DRM (Digital Rights Management) feature, this allows you to share documents in a “read-only” mode. You can configure GroupDocs.Annotation to prevent users from copying, downloading or printing some or all of the documents displayed on your website.
 
 <h3>Installing the Add-on</h3>
 Please note: this add-on requires the GroupDocs.Annotation for .NET library to be installed on your server first. For more details on the library and to download a free evaluation copy, please refer to the GroupDocs website:
