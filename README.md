@@ -1,5 +1,5 @@
 <h2>Document & Image Annotation Widget for Your Website</h2>
-This plugin adds comprehensive <a href="https://groupdocs.com/dot-net/document-annotation-library" target="_blank">document & image annotation</a> functionality to SilverStripe CMS. It integrates the downloadable .NET version of the GroupDocs.Annotation library into your website. Once installed, you will be able to embed and display more than 50 different types of documents and images along with an annotation widget on any page within your website. Key features and benefits include:
+This plugin adds comprehensive <a href="http://groupdocs.com/dot-net/document-annotation-library" target="_blank">document & image annotation</a> functionality to SilverStripe CMS. It integrates the downloadable .NET version of the GroupDocs.Annotation library into your website. Once installed, you will be able to embed and display more than 50 different types of documents and images along with an annotation widget on any page within your website. Key features and benefits include:
 
 <strong>Support for 50+ File Formats</strong>
 To name just a few, GroupDocs.Annotation for .NET allows your website users to view and annotate PDF files, Microsoft Word documents, Excel spreadsheets, PowerPoint presentations, Visio diagrams, CAD drawings, raster images and many more.
@@ -18,4 +18,4 @@ Documents embedded to your website are not downloaded to user machines during vi
 
 <h3>Installing the Add-on</h3>
 Please note: this add-on requires the GroupDocs.Annotation for .NET library to be installed on your server first. For more details on the library and to download a free evaluation copy, please refer to the GroupDocs website:
-<a href="https://groupdocs.com/dot-net/document-annotation-library" target="_blank">https://groupdocs.com/dot-net/document-annotation-library</a>
+<a href="http://groupdocs.com/dot-net/document-annotation-library" target="_blank">https://groupdocs.com/dot-net/document-annotation-library</a>
